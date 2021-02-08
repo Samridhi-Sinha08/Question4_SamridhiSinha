@@ -1,0 +1,16 @@
+Enter a positive integer
+
+42
+
+Number of divisiors = 7
+
+Sum of divisiors = 54
+
+Enter a positive integer
+
+147
+
+Number of divisiors = 5
+
+Sum of divisiors = 81
+
